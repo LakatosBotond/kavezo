@@ -1,9 +1,11 @@
 body{
-    background-color: antiquewhite;
     margin: 0%;
+    background-image: url(coffee-beans-2258874_1920.jpg);
 }
 
 header{
+    text-align: left;
+    color: white;
     background-color: darkgreen;
     size: 100%;
     height: 60px;
