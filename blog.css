@@ -26,4 +26,20 @@ font-size: 1.5em;
 nav a:first-child img{
 width:40px;
 
+
+}
+
+.blogfelirat{
+position: absolute;
+width: 225px;
+height: 60px;
+left: 579px;
+top: 66px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
 }
