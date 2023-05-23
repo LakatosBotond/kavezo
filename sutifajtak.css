@@ -27,3 +27,11 @@ nav a:first-child img{
 width:40px;
 
 }
+footer{
+    background-color: #1f5b25;
+    color: white;
+    position: absolute;
+    left: 100;
+    bottom: 0;
+    width: 100%;
+}

@@ -31,7 +31,7 @@ width:40px;
 
 .blogfelirat{
 position: absolute;
-width: 225px;
+width: 700px;
 height: 60px;
 left: 579px;
 top: 66px;
@@ -50,6 +50,6 @@ footer{
     position: absolute;
     left: 100;
     bottom: 0;
-    width: 2000px;
+    width: 100%;
   
 }
