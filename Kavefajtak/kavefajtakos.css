@@ -62,4 +62,13 @@ nav a:first-child img{
     margin-bottom: 1rem;
     font-variant: small-caps;
 }
+footer{
+    background-color: #1f5b25;
+    color: white;
+    position: absolute;
+    left: 100;
+    bottom: 0;
+    width: 2000px;
+  
+}
 
