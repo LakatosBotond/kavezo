@@ -8,6 +8,7 @@ body{
 nav{
     background-color: #1f5b25;
     padding: 15px;
+    width: 2500px;
     
 
 }
@@ -31,11 +32,11 @@ nav a:first-child img{
     
 }
 .banner{
-    background-image: url(banner-img.jpg);
+    background-image: url(fajtakepek/banner-img.jpg);
     background-position: center center;
     background-size: cover;
     height: 400px;
-    width: 2000px;
+    width: 1841px;
 
 }
 .kave{
@@ -44,12 +45,12 @@ nav a:first-child img{
     border: 1px solid #1f5b25;
     border-radius: 4px;
     margin-bottom: 1rem;
+    width: 360px;
+height: 300px;
+left: 540px;
+top: 629px;
+      
     
-    
-    
-    
-
-   
 }
 
 .kave:hover{
@@ -71,8 +72,30 @@ footer{
     width: 2000px;
     position: bottom;
 }
-.kep{
-    width: 360px;
+#kep{
+    
+width: 358px;
+height: 210px;
+left: 930px;
+top: 629px;
+}
+
+#kep2{
+    width: 358px;
+    height: 210px;
+    left: 540px;
+    top: 629px;
+}
+
+#kep3{
+    width: 358px;
+    height: 210px;
+    left: 540px;
+    top: 629px;
+}
+
+#kep4{
+    width: 358px;
     height: 210px;
     left: 540px;
     top: 629px;
