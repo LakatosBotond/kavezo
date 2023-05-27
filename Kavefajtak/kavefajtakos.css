@@ -101,6 +101,7 @@ top: 629px;
     top: 629px;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 .my-4{
 font-family: 'Fredericka the Great';
 font-style: normal;
@@ -122,4 +123,10 @@ color: #2B7607;
     background-color: #16bb26;
     color: #fff;
     border: none;
+    height: 30px;
+    width: 150px;
+}
+
+.szovegd{
+    border-radius: 5px;
 }

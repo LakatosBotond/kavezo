@@ -12,6 +12,7 @@ padding: 15px;
 nav a{
 color: white;
 margin: 15px;
+text-decoration: none;
 }
 
 nav a:hover{
@@ -34,4 +35,76 @@ footer{
     left: 100;
     bottom: 0;
     width: 100%;
+}
+.suti{
+    color: #1f5b25;
+    background-color: #fff;
+    border: 1px solid #1f5b25;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    width: 360px;
+    height: 300px;
+    left: 540px;
+    top: 629px;
+      
+    
+}
+
+.suti:hover{
+    box-shadow: 0px 0px 5px #1f5b25;
+}
+.suti h2{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
+}
+footer{
+    background-color: #1f5b25;
+    color: white;
+    left: 100;
+    bottom: 0;
+    width: 2000px;
+    position: bottom;
+    
+}
+#kep{
+    
+width: 358px;
+height: 210px;
+left: 930px;
+top: 629px;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+.my-4{
+font-family: 'Fredericka the Great';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #2B7607;
+}
+
+.clover{
+    border-radius: none;
+}
+
+.gomb{
+    border-radius: 5px;
+    background-color: #16bb26;
+    color: #fff;
+    border: none;
+    height: 30px;
+    width: 150px;
+}
+
+.szovegd{
+    border-radius: 5px;
 }
