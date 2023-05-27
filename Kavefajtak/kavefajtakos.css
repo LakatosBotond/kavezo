@@ -10,7 +10,7 @@ body{
 nav{
     background-color: #1f5b25;
     padding: 15px;
-    width: 2500px;
+    width: 2600px;
     
 
 }
@@ -38,7 +38,7 @@ nav a:first-child img{
     background-position: center center;
     background-size: cover;
     height: 400px;
-    width: 1841px;
+    width: 2000px;
 
 }
 .kave{
@@ -109,7 +109,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 40px;
 line-height: 49px;
-display: flex;
 align-items: center;
 text-align: center;
 color: #2B7607;

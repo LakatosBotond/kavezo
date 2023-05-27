@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 
 body{
-    background-color: #fbefdb;
+    background-color: #fbefdb !important;
     margin: 0%;
 }
 
@@ -35,7 +35,7 @@ width:40px;
     background-position: center center;
     background-size: cover;
     height: 400px;
-    width: 1841px;
+    width: 2000px;
 
 }
 footer{
@@ -96,8 +96,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 40px;
 line-height: 49px;
-display: flex;
-align-items: center;
 text-align: center;
 color: #2B7607;
 }

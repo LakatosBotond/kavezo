@@ -1,5 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+
 body{
-    background-color:#fbefdb;
+    background-color:#fbefdb !important;
     margin: 0%;
 }
 
@@ -31,13 +35,15 @@ width:40px;
 }
 
 .blogfelirat{
-position: absolute;
+text-align: center;
 width: 700px;
 height: 60px;
 left: 579px;
 top: 66px;
+font-family: "Fredericka the great";
+color: #1f5b25;
 
-font-family: 'Roboto';
+
 font-style: normal;
 font-weight: 500;
 font-size: 40px;
@@ -53,4 +59,12 @@ footer{
     bottom: 0;
     width: 100%;
   
+}
+.gomb{
+    border-radius: 5px;
+    background-color: #16bb26;
+    color: #fff;
+    border: none;
+    height: 30px;
+    width: 150px;
 }
