@@ -3,14 +3,15 @@
 body{
         background-color:#fbefdb;
         margin:0%;
-        
+        height: 100vh;
         
     }
 
 nav{
     background-color: #1f5b25;
     padding: 15px;
-    width: 2600px;
+    
+    width: 100%;
     
 
 }
@@ -39,6 +40,7 @@ nav a:first-child img{
     background-size: cover;
     height: 400px;
     width: 2000px;
+    width: 100%;
 
 }
 .kave{
