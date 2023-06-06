@@ -36,10 +36,6 @@ width:40px;
 
 .blogfelirat{
 text-align: center;
-width: 700px;
-height: 60px;
-left: 579px;
-top: 66px;
 font-family: "Fredericka the great";
 color: #1f5b25;
 
@@ -51,6 +47,10 @@ line-height: 47px;
 text-align: center;
 }
 
+.blogszoveg{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
 footer{
     background-color: #1f5b25;
     color: white;
