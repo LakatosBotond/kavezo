@@ -35,8 +35,8 @@ width:40px;
     position: absolute;
     width: 584px;
     height: 49px;
-    left: 96px;
-    top: 267px;
+    left: 30px;
+    top: 200px;
     z-index: 10;
     font-family: 'Fredericka the Great';
     font-style: normal;
@@ -55,5 +55,3 @@ width:40px;
     top: 206px;
     opacity: 0.5;
 }
-
-
